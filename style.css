@@ -9,6 +9,12 @@ body {
   margin-right: 10%;
   float: left;
   padding-bottom: 20%;
+  padding-right: 20%;
+  align-content: center;
+}
+
+.navbar-nav {
+  margin-left: auto;
 }
 
 .contact-header {
